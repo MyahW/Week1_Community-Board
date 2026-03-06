@@ -28,4 +28,20 @@ body {
     text-shadow: 8px 8px 11px #6657bd;
     text-align: center;
     color: #06025b;
+    text-decoration: underline;
+    padding-bottom: 45px;
+}
+
+button{
+    all: unset;
+    border-radius: 10px;
+    background-color: #bd5798;
+    color:#f3f3ff;
+    width: 140px;
+    height: 30px;
+}
+
+button:hover{
+    background-color: #850f5a;
+    color: #f3f3ff;
 }
