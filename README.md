@@ -10,4 +10,4 @@ I love to knit and crochet in my spare time, so I made a community board for tho
 - [x] Apply CSS styling to React components
 
 ## Gif Preview
-![Community Board Gif](./src/assets/CommunityBoardGif.gif)
+![Community Board Gif](CommunityBoard_Wk01/src/assets/CommunityBoardGif.gif)
